@@ -1,4 +1,4 @@
-**React Webpack 4 Boilerplat**
+**React Webpack 4 Boilerplate**
 
 ## RUN below script 
 `yarn install`
